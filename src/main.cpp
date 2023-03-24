@@ -6,7 +6,6 @@
 // to avoid toggling relays at system reboot/bootup etc ... bootup toggle...
 // ***************************************************************************
 
-
 #include <Arduino.h>
 
 // pins for arduino mini pro 5V 16MHz
